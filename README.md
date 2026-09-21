@@ -1,4 +1,4 @@
-# UPI Offline Mesh — Deferred Settlement Payment Backend
+# UPI Offline Mesh Deferred Settlement Payment Backend
 
 A Java 17 and Spring Boot backend that simulates **offline UPI-style mesh-routed payments with deferred settlement** through a bridge-ingestion API.
 
